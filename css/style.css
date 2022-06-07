@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.mx-auto {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.redes a {
+text-decoration: none;
+color: white;
+}
+
+.botonTienda {
+    text-decoration: none;
+    background-color: #ff3535dc;
+    color: white;
+    padding: 5px;
+    border-radius: 10%;
+}
+
+.boton__clase {
+    background-color: rgb(2, 139, 2);
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    border-radius: 10%;
+}
+
+.btn-info {
+    color: white;
+    width: 10rem;
+
+}
+
+.container_flex {
+    display: flex;
+    flex-direction: column;
+}
